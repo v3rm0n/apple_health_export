@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Make all",
+    "command": "make all"
+  },
+  {
+    "label": "Make start",
+    "command": "make start"
+  },
+  {
+    "label": "Make clean",
+    "command": "make clean"
+  }
+]
